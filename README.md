@@ -1,5 +1,19 @@
 # KoChatLLaMA.cpp
-한국어 Fine-tuning + ChatLLaMA + LLaMA.cpp + Distillation + More efficient models and learning
+오픈소스 + 한국어 Fine-tuning + ChatLLaMA + LLaMA.cpp + Distillation + More efficient models and learning + ?
+
+## Help
+최고 성능 한국어 LLM 모델 구현을 같이하실 분을 찾습니다.
+
+### Job Offer
+0. 🔥GPU/TPU/NPU 를 지원해주실 분🔥
+1. LLAMA 를 같이 fine-tuning 및 바꿀 사람
+2. 서빙에 도움을 줄 사람
+3. 웹툰 등 시계열 이미지를 생성할 사람
+4. 영화 등 영상을 생성할 사람
+5. Stablity AI, Hugging Face 처럼 같이 서비스를 수익화할 사람
+
+newhiwoong@gmail.com 
+이나 전화로 연락해주세요!
 
 ## Reference
 - ggerganov/llama.cpp: https://github.com/ggerganov/llama.cpp
@@ -21,22 +35,6 @@
 - CACTI: https://cacti-framework.github.io/
 - PaLM-E: https://palm-e.github.io
 - Youtube: https://www.youtube.com/playlist?list=PLsmJteXozP3oHVB5TCrXEcrfQnInMxkoT
-
-
-## Help
-현존 최고 성능의 한국어 LLM 모델 구현을 같이하실 분 알려주세요!
-
-### Job Offer
-0. 🔥GPU/TPU/NPU 를 지원해주실 분🔥
-1. LLAMA 를 같이 fine-tuning 및 바꿀 사람
-2. 서빙에 도움을 줄 사람
-3. 웹툰 등 시계열 이미지를 생성할 사람
-4. 영화 등 영상을 생성할 사람
-5. Stablity AI, Hugging Face 처럼 같이 서비스를 수익화할 사람
-
-newhiwoong@gmail.com 
-이나 전화로 연락해주세요!
-
 
 # llama.cpp
 
