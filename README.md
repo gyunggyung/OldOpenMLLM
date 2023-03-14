@@ -17,6 +17,7 @@ newhiwoong@gmail.com
 
 ## Reference
 - ggerganov/llama.cpp: https://github.com/ggerganov/llama.cpp
+- tatsu-lab/stanford_alpaca: https://github.com/tatsu-lab/stanford_alpaca
 - juncongmoo/chatllama: https://github.com/juncongmoo/chatllama
 - gyunggyung/DistilKoBiLSTM: https://github.com/gyunggyung/DistilKoBiLSTM
 - microsoft/unilm: https://github.com/microsoft/unilm
