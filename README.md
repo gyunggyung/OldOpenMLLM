@@ -1,8 +1,8 @@
-# KoChatLLaMA.cpp
-오픈소스 + 한국어 Fine-tuning + ChatLLaMA + LLaMA.cpp + Distillation + More efficient models and learning + ?
+# OpenMLLM
+오픈소스 + 다국어 Fine-tuning + ChatLLaMA + LLaMA.cpp + Distillation + More efficient models and learning + ?
 
 ## Help
-최고 성능 한국어 LLM 모델 구현을 같이하실 분을 찾습니다.
+최고 성능 MLLM 모델 구현을 같이하실 분을 찾습니다.
 
 ### Job Offer
 0. 🔥GPU/TPU/NPU 를 지원해주실 분🔥
