@@ -13,7 +13,9 @@ We're looking for someone to join us in implementing a top-performing MLLM model
 5. someone who can monetize services like OpenAI, Stability AI, and Huggingface.
 
 Reach out to me at the email below with a little bit about yourself.
+
 newhiwoong@gmail.com 
+
 이나 전화로 연락해주세요!
 
 0. 🔥GPU/TPU/NPU 를 지원해주실 분🔥
@@ -23,8 +25,6 @@ newhiwoong@gmail.com
 4. 영화 등 영상을 생성할 사람
 5. Stablity AI, Hugging Face 처럼 같이 서비스를 수익화할 사람
 
-newhiwoong@gmail.com 
-이나 전화로 연락해주세요!
 
 ## Reference
 - antimatter15/alpaca.cpp: https://github.com/antimatter15/alpaca.cpp
