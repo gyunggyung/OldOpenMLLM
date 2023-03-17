@@ -16,6 +16,7 @@ newhiwoong@gmail.com
 이나 전화로 연락해주세요!
 
 ## Reference
+- antimatter15/alpaca.cpp: https://github.com/antimatter15/alpaca.cpp
 - ggerganov/llama.cpp: https://github.com/ggerganov/llama.cpp
 - tatsu-lab/stanford_alpaca: https://github.com/tatsu-lab/stanford_alpaca
 - juncongmoo/chatllama: https://github.com/juncongmoo/chatllama
