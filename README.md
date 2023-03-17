@@ -1,10 +1,21 @@
 # OpenMLLM
-오픈소스 + 다국어 Fine-tuning + MLLM + Distillation + More efficient models and learning + ?
+Open Source + Multilingual MLLM + Fine-tuning + Distillation + More efficient models and learning + ?
 
 ## Help
-최고 성능 MLLM 모델 구현을 같이하실 분을 찾습니다.
+We're looking for someone to join us in implementing a top-performing MLLM model.
 
 ### Job Offer
+0. 🔥GPU/TPU/NPU support for the project🔥.
+1. someone to fine-tune and change LLAMA together
+2. someone to help with serving
+3. someone to create time series images such as webtoons
+4. Someone to create videos such as movies
+5. someone who can monetize services like OpenAI, Stability AI, and Huggingface.
+
+Reach out to me at the email below with a little bit about yourself.
+newhiwoong@gmail.com 
+이나 전화로 연락해주세요!
+
 0. 🔥GPU/TPU/NPU 를 지원해주실 분🔥
 1. LLAMA 를 같이 fine-tuning 및 바꿀 사람
 2. 서빙에 도움을 줄 사람
